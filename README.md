@@ -1,1 +1,1 @@
-# sistemas_informacion
+# sistemas_de_la_informacion
